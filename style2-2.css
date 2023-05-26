@@ -1,0 +1,17 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    padding:40px;
+}
+.block1 {
+    border: solid brown;
+    width: 160px;
+    height:160px;
+    margin-bottom:40px;
+}
+.block2 {
+    border: solid blue;
+    width: 200px;
+    height: auto;
+    padding:20px;
+}

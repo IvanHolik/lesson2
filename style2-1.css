@@ -1,0 +1,32 @@
+body {
+    background-color: white;
+}
+
+.container {
+    width:300px;
+    padding:20px;
+    height: auto;
+    display: flex;
+  flex-direction: column;
+  background-color: rgb(8, 8, 8);
+}
+.button {
+    width:auto;
+    padding:20px;
+    margin-bottom:15px;
+    color:white;
+    text-transform: uppercase;
+    font-weight: bolder;
+}
+.button1{
+    background: linear-gradient(to right, yellow 15%, orange 40%);
+}
+.button2{
+    background: linear-gradient(to right,rgb(165, 238, 165) , rgb(59, 216, 59) 40%);
+}
+.button3{
+    background: linear-gradient(to bottom, rgb(101, 15, 122) 10%, rgb(138, 99, 138) 80%);
+}
+.button4{
+    background: linear-gradient(to bottom, rgb(88, 37, 230) 10%, rgb(144, 164, 250) 90%);
+}
